@@ -2,6 +2,7 @@
 # Date:
 ## Reference Number:
 ## Name:
+
 ## Problem Title
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
 
@@ -12,7 +13,7 @@ Government of Punjab
 Department of Higher Education
 
 ## Problem Description
-### Problem Description
+### Problem Statement
 <ul>
   <li>Despite the rising urgency of climate change and environmental degradation, environmental education remains largely theoretical in many Indian schools and colleges. Students are often taught textbook-based content with little emphasis on real-world application, local ecological issues, or personal responsibility.</li>
   <li>There is a lack of engaging tools that motivate students to adopt eco-friendly practices or understand the direct consequences of their lifestyle choices. Traditional methods fail to instill sustainable habits or inspire youth participation in local environmental efforts.</li>
