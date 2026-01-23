@@ -3,42 +3,33 @@
 ## Reference Number:
 ## Name:
 ## Problem Title
-SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
-## Problem Description
-### Background
-
-Biosecurity is a cornerstone of animal health management, particularly in the pig and poultry sectors, where disease outbreaks such as Avian Influenza and African Swine Fever can cause significant economic losses, threaten food security, and disrupt rural livelihoods. Despite its importance, many farmers—especially smallholders in resource-limited areas—struggle to access practical, actionable information on biosecurity protocols, risk assessment tools, and regulatory compliance requirements.
-
-### Problem Description
-
-There is an urgent need for a user-friendly, digital platform that empowers farmers to implement, monitor, and sustain robust biosecurity practices on their farms. This portal should offer end-to-end solutions for farm-level biosecurity management by integrating:
-
-• Customizable risk assessment tools based on local epidemiological conditions.
-• Interactive training modules and best practice guidelines tailored for pig and poultry production systems.
-• Compliance tracking features aligned with regulatory frameworks to help farmers work toward disease-free compartment recognition.
-• Real-time alerts and monitoring dashboards for disease outbreaks and biosecurity breaches.
-• Multilingual and mobile-first design to ensure accessibility in remote and rural areas.
-
-The platform should also enable data collection and analysis for policy support, foster collaborative networking among stakeholders (farmers, veterinarians, extension workers, etc.), and promote long-term resilience and sustainability in the livestock sector.
-
-### Expected Outcomes
-
-• Enhanced farmer awareness and education on biosecurity.
-• Improved risk management at the farm level as well as self-assessment.
-• Easy access to customized biosecurity protocols and guidelines.
-• Digital record-keeping and compliance tracking.
-• Timely alerts and disease notifications to farmers.
-• Healthier livestock and increased farm productivity.
-• Empowerment of small and marginal farmers with limited resources.
-• Support to authorities in data-driven surveillance and policy making.
-• Stronger collaboration across the livestock ecosystem.
-• Improved national preparedness for zoonotic and transboundary diseases.
+SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
 
 ## Problem Creater's Organization
-Ministry of Fisheries, Animal Husbandry & Dairying
+Government of Punjab
 
 ## Theme
-Department of Animal Husbandry & Dairying (DoAH&D)
+Department of Higher Education
+
+## Problem Description
+### Problem Description
+<ul>
+  <li>Despite the rising urgency of climate change and environmental degradation, environmental education remains largely theoretical in many Indian schools and colleges. Students are often taught textbook-based content with little emphasis on real-world application, local ecological issues, or personal responsibility.</li>
+  <li>There is a lack of engaging tools that motivate students to adopt eco-friendly practices or understand the direct consequences of their lifestyle choices. Traditional methods fail to instill sustainable habits or inspire youth participation in local environmental efforts.</li>
+</ul>
+
+### Impact
+<ul>
+  <li>As future decision-makers, students must be environmentally literate and empowered to take meaningful actions. Without innovative education methods, we risk raising a generation unaware of sustainability challenges.</li>
+  <li>An interactive, practical approach to environmental learning will foster long-term behavioral change, local involvement, and a ripple effect across families and communities. This aligns with India's SDG goals and NEP 2020's emphasis on experiential learning.</li>
+</ul>
+
+### Expected Outcomes
+<ul>
+  <li>A gamified mobile/web platform or app that teaches students about environmental issues through interactive lessons, challenges, quizzes, and real-world tasks (e.g., tree-planting, waste segregation).</li>
+  <li>Tracking of eco-points, enabling school-level competitions.</li>
+  <li>Rewards for sustainable practices through digital badges and recognition.</li>
+</ul>
 
 ## Proposed Solution
 Remove These Lines
