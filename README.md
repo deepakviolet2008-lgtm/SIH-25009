@@ -7,10 +7,10 @@
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
 
 ## Problem Creater's Organization
-Government of Punjab
+Department of Higher Education, Government of Punjab
 
 ## Theme
-Department of Higher Education
+Smart Education
 
 ## Problem Description
 ### Problem Statement
