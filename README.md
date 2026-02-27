@@ -69,7 +69,7 @@ Benefits of the Solution:
 4. Educational Benefits
 
 ## Research and References
-https://www.vgos.org/blog/2025/04/5-ways-to-gamify-environmental-education.html
+https://www.vgos.org/blog/2025/04/5-ways-to-gamify-environmental-education.html   
 https://www.pathsoflearning.net/2277/best-eco-education-games-for-sustainability-lessons/
 
-There are games that teach students environment(eg. Minecreft)
+There are games that teach students about environment(eg. Minecreft)
